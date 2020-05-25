@@ -1,2 +1,4 @@
-# OlaMundo
- Repositorio criado para a aula ao vivo de git-github do curso em video do professro gustavo guranabara
+# Olá, Mundo!
+Repositório do curso de Git-Github do professor Gustavo Guanabara
+
+Repositório criado durante uma aula gravado no YouTube
